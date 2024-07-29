@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mrarrazzaq
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning Software Quality Engineering
-- 📫 How to reach me :razaq.zeeland@gmail.com 
+- 📫 How to reach me :rahmadrazaq@gmail.com 
 
 
 <!---
