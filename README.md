@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Razaq
-- 🌱 I’m currently learning Software Quality Engineering
+- 🌱 I’m an Software Quality Engineering and Embedded System Enthusiast
 - 📫 How to reach me :rahmadrazaq@gmail.com 
 
 
